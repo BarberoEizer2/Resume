@@ -12,7 +12,7 @@ div {
 	border-radius: 5px;
 }
 
-#header {
+.header {
 	z-index: 1;
 	position: fixed;
 	width: 97.5%;
@@ -89,7 +89,7 @@ a:hover {
 
 }
 
-#footer {
+.footer {
 	position: relative;
 	height: 50px;
 	background-color: #808080;
@@ -100,7 +100,7 @@ a:hover {
 	color: #ffffff;
 }
 
-#footer p {
+.footer p {
 	position: relative;
 	padding-top: 15px;
 }
