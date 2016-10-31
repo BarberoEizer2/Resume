@@ -14,3 +14,11 @@ p, ul, li{
 h4{
 	font color:blue;
 }
+.email{
+	float:right;
+	margin-right: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
