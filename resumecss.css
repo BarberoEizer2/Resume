@@ -11,3 +11,10 @@ body{
 p, ul, li{
 	font color:black;
 }
+.right{
+    float:right;
+}
+
+.left{
+    float:left;
+}
